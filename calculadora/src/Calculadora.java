@@ -29,6 +29,7 @@ public class Calculadora {
         System.out.println("5 - 3 = " + restar(5, 3));
         System.out.println("5 * 3 = " + multiplicar(5, 3));
 	System.out.println("6 - 3 = " + restar(6, 3));
+		System.out.println("7 % 3 = " + modulo(7, 3));
     }
 }
 
